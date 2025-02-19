@@ -1,12 +1,11 @@
-- 👋 Hi, I’m @Abilafora
-- 👀 I’m interested in learn and travel ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns:her she ...
-- ⚡ Fun fact: ...
+## Olá, meu nome é {Abi}!
 
-<!---
-Abilafora/Abilafora is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Sobre mim
+
+- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🎓 Estudando {Analise e Desenvolvimento  de sistema } na {Universidade do Senac} atualmente no 3 semestre.
+- 🌱 Aprendendo mais sobre {Java}, pois estou em um bootcamp da Generation de Java Fullstack.
+
+<img src="https://img.shields.io/static/v1?label=Overview&message=Abi&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+
+
