@@ -1,9 +1,9 @@
 <img src = "banner.gif" width = "325px" align = "right">
 
 
-# Olá, meu nome é Abi!
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=450&size=25&pause=1000&color=EF3FF7&width=435&lines=Holla+meu+nome+e+Abi!;Seja+bem+vindo+%22+%3A)" alt="Typing SVG" /></a>
 
-## Sobre mim
+Sobre mim
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando {Analise e Desenvolvimento  de sistema } na {Universidade do Senac} atualmente no 3 semestre.
@@ -30,6 +30,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40"/>
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" height="40"/>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40" />
+          
           
                  
   </a>
@@ -37,9 +40,9 @@
 
 ---
 <div align = "left">
-<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=risoflorais&show_icons=true&theme=bear&count_private=true"/>
-<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=risoflorais&show_icons=true&show_icons=true&theme=bear&count_private=true" />
+<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abilafora&show_icons=true&theme=bear&count_private=true"/>
+<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=abilafora&show_icons=true&show_icons=true&theme=bear&count_private=true" />
 </div>
 ---
-<img src = "banner.gif" width = "325px" align = "right">
+
 
