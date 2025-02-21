@@ -3,7 +3,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=450&size=25&pause=1000&color=EF3FF7&width=435&lines=Holla+meu+nome+e+Abi!;Seja+bem+vindo+%22+%3A)" alt="Typing SVG" /></a>
 
-Sobre mim
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=450&size=25&duration=6000&pause=1000&color=EF3FF7&width=435&lines=Sobre+mim!" alt="Typing SVG" /></a>
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando {Analise e Desenvolvimento  de sistema } na {Universidade do Senac} atualmente no 3 semestre.
@@ -16,10 +16,9 @@ Sobre mim
 - 🌐 **LinkedIn**: [Meu LinkedIn](https://www.linkedin.com/in/abiqueila-souza/)
 
 
-
+## ⚡ Tecnologias e Aprendizado!
   <div id="badges">
   <a href = "https://github.com/risoflorais">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" />
   
