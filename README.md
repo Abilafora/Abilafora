@@ -1,7 +1,7 @@
 <img src = "banner.gif" width = "325px" align = "right">
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=450&size=25&pause=1000&color=EF3FF7&width=435&lines=Holla+meu+nome+e+Abi!;Seja+bem+vindo+%22+%3A)" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=450&size=25&pause=1000&color=EF3FF7&width=435&lines=Holla+meu+nome+é+Abi!;Seja+bem+vindo+%22+%3A)" alt="Typing SVG" /></a>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=450&size=25&duration=6000&pause=1000&color=EF3FF7&width=435&lines=Sobre+mim!" alt="Typing SVG" /></a>
 
